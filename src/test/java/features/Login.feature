@@ -1,0 +1,1 @@
+Feature: User should be able to login to the EzMed AppealTech platform

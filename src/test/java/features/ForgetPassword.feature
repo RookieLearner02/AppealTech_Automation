@@ -1,0 +1,1 @@
+Feature: user should be able to change the password, when user forget the password
